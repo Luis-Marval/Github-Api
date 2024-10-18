@@ -1,0 +1,18 @@
+{
+  "name": "githud-api",
+  "version": "0.4.0",
+  "description": "Un Programa para mostrar informacion de las actividades recientes de githud del usuario ingresado",
+  "main": "api.js",
+  "scripts": {
+    "start":"node api.js "
+  },
+  "type":"module",
+  "keywords": [
+    "api",
+    "githud",
+    "js",
+    "node"
+  ],
+  "author": "Luis Marval",
+  "license": "ISC"
+}
